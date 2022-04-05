@@ -1,6 +1,6 @@
 # WebShop
 
-It is Fullstack MERN Application, it has all functionalities of a shopping website like authentication,rating, customer reviews and many other features.<br>
+It is Fullstack MERN Application, it has all functionalities of a shopping website like authentication,rating, customer reviews, **paypal integration** and many other features.<br>
 https://webzhop.herokuapp.com/
 
 ## Screenshots

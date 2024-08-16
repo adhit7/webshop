@@ -1,18 +1,34 @@
 # WebShop
 
-It is Fullstack MERN Application, it has all functionalities of a shopping website like authentication,rating, customer reviews, **paypal integration** and many other features.<br>
-https://webzhop.herokuapp.com/
+This is a full-stack e-commerce platform built using the MERN stack. The application allows users to browse products, place orders, and complete payments securely through PayPal. The project demonstrates a seamless user experience from registration to order completion.<br>
+Frontend Repo - https://github.com/adhit7/webshop-frontend
+
+## 🌟 Key Features
+
+- **User Registration & Login:** Secure authentication process allowing users to create an account, log in, and manage their profiles.
+- **Product Browsing & Ordering:** Users can browse available products, add items to their cart, and place orders.
+- **Payment Integration:** Integrated PayPal payment gateway for secure and easy payment processing during checkout.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Other Tools:** PayPal API, JWT for authentication
+
 
 ## Screenshots
 
 Home Page
-![Home](https://user-images.githubusercontent.com/72742240/160067339-b285d1a8-1a8d-4f66-b590-422c32f8f7fe.png)
+![Home](https://github.com/user-attachments/assets/a4adedc3-9561-4639-aee7-efc76a67fe99)
+
 
 Product Page
-![Product](https://user-images.githubusercontent.com/72742240/160067418-fdf46dd0-eedd-465a-ab68-852436f8ba4c.png)
+![Product](https://github.com/user-attachments/assets/2ec6daff-b751-497c-bd78-39dd28f0eaa2)
+
 
 Cart Page
-![Checkout](https://user-images.githubusercontent.com/72742240/160067484-8992985a-ef1f-4779-a4a4-4a3aee2dd605.png)
+![Checkout](https://github.com/user-attachments/assets/60cb063e-c467-4c0a-83e2-6e878f1e24a1)
 
 
 ## Local Setup
@@ -29,22 +45,12 @@ $ cd webshop
 $ npm install
 ```
 
-
 ```sh
-$ cd frontend
-```
-
-```sh
-$ npm install
+$ npm run server
 ```
 
 
-## Run Locally
+## Env File
+Create your own env file MONGO DB connection
 
-```sh
-Create your own env file MONGO DB connection and JWT token
-```
 
-```sh
-$ npm run dev
-```

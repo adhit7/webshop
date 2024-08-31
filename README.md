@@ -2,7 +2,8 @@
 
 
 This is a full-stack e-commerce platform built using the MERN stack. The application allows users to browse products, place orders, and complete payments securely through PayPal. The project demonstrates a seamless user experience from registration to order completion.<br>
-Frontend Repo - https://github.com/adhit7/webshop-frontend
+Frontend Repo - https://github.com/adhit7/webshop-frontend <br>
+Backend Deployed Link - https://web-production-0d9f9.up.railway.app/
 
 ## 🌟 Key Features
 

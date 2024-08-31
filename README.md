@@ -1,4 +1,5 @@
-# WebShop
+# WebShop - <a href="https://webshop-z.netlify.app/" target="_blank">Open Webshop</a>
+
 
 This is a full-stack e-commerce platform built using the MERN stack. The application allows users to browse products, place orders, and complete payments securely through PayPal. The project demonstrates a seamless user experience from registration to order completion.<br>
 Frontend Repo - https://github.com/adhit7/webshop-frontend
